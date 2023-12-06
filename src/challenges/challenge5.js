@@ -19,4 +19,4 @@ function cyberReindeer(road, time) {
 const road = 'S..|...|..'
 const time = 10
 const result = cyberReindeer(road, time)
-console.log(cyberReindeer(road, time))
+console.log(result)
